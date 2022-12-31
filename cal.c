@@ -27,7 +27,7 @@ int main(void)
     return 0;
 }
 
-==============
+; ==============
   #include <math.h>
 
 double calculateChargeDensity(double resistance, double length, double crossSectionalArea) {
@@ -60,3 +60,16 @@ int main() {
 
     return 0;
 }
+
+; ====
+; This code defines four functions: calculateChargeDensity, calculateElectricField, calculateMagneticField, and main. 
+; The calculateChargeDensity function calculates the charge density of the copper wire using the resistance, length, 
+; and cross-sectional area of the wire. The calculateElectricField function calculates the electric field at the surface 
+; of the ground using the charge density and the electric permittivity. 
+; The calculateMagneticField function calculates the magnetic field at the surface of the ground using the current density, 
+; permeability, electric field, and time. 
+; The main function uses these functions to calculate the electric and magnetic fields for the given parameters and prints the results.
+
+
+
+
