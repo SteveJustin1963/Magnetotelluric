@@ -27,4 +27,4 @@ Finally, we can calculate the magnetic field at the surface of the ground due to
 Therefore, the electric and magnetic fields at the surface of the ground due to the insulated copper wire 1 meter long and 10mm in diameter, 1 meter below the ground, are 11.3x10^9 N/C and 2.8x10^-7 T, respectively.
 
 ## code
-```cd1.c```
+```cal.c```
